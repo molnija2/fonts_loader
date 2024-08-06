@@ -5,3 +5,5 @@ The program allows you to find a suitable font in the system (windows/linux), se
 style and write it as a .h file. The user can set vertical or horizontal division into numbers,
 and select their bit depth from 8 to 32. The program itself generates a file name using the
 font name and options.
+
+To compile the program use qtCreator package.
