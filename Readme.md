@@ -1,4 +1,4 @@
-The qFontLoader program is designed to convert fonts from the operating system into hex codes
+qFontLoader program is designed to convert fonts from the operating system into hex codes
 of the .h file, for displaying text on the TFT display of the microcontroller. 
 
 The program allows you to find a suitable font in the system (windows/linux), select the desired size,
